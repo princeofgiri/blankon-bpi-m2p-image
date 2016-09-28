@@ -1,0 +1,5 @@
+devrootfs/
+mnt/
+build/
+initramfs*
+*.img
